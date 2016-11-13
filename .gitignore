@@ -1,0 +1,17 @@
+*.tlog
+*.idb
+*.pdb
+*.log
+*.obj
+*.lastbuildstate
+VisualSortModalDlg.suo
+VisualSortModalDlg.vcxproj.user
+*.res
+*.sdf
+*.ipch
+Debug/VisualSortModalDlg.exe.embed.manifest
+*.cache
+*.ilk
+Debug/VisualSortModalDlg.exe.intermediate.manifest
+Debug/VisualSortModalDlg_manifest.rc
+Release/VisualSortModalDlg.exe.intermediate.manifest
